@@ -1,3 +1,181 @@
+
+Circulism
+
+Plain-Language Summary
+
+The core strength of Circulism lies in establishing an antifragile meta-order that uses failure as fuel for evolution, absolute anti-corruption to prevent privilege, and extreme checks and balances to prevent totalitarian domination.
+
+It seeks to eliminate power-brokering for private gain and backroom dealings by enforcing the simultaneous operation of “extreme anti-corruption” and “extreme restrictions on oversight power.” No force should be allowed to turn a temporary advantage into permanent domination or the formation of a privileged class.
+
+At the same time, it seeks to transform the pain caused by free experimentation into an open-source Archive of Failures, treating failure with cold objectivity. This archive is intended not only to alleviate structural internal conflict within society, but also to turn every failure into a form of institutional immunity and a stepping stone for future generations to build upon across generations.
+
+By seeking to free society from exploitation and domination, Circulism aims to create an environment in which people can embrace the unknown and its limitless possibilities with a strong sense of agency and a genuine desire to explore.
+
+It aspires to make the following statement possible for everyone:
+
+“All forces operate in parallel, each shaping the others; order remains mutable, and experience endures.”
+
+I. Core Definition
+
+Circulism is a meta-political order theory centered on pluralistic coexistence, the limitation of domination, and continuous institutional evolution.
+
+It seeks to enable different social forces to compete, cooperate, influence one another, and change within a shared community through common meta-rules, layered autonomy, checks and balances, popular decision-making, institutional correction, and the transmission of historical experience. At the same time, it seeks to limit the ability of any party to transform a temporary advantage into permanent domination.
+
+It presupposes neither a single, universally correct social endpoint nor the need for its own permanent existence.
+
+II. Fundamental Operating Principles of the System
+
+All extremes must operate simultaneously from the very beginning of the system’s implementation.
+
+Circulism does not begin by establishing a normal institutional framework and then gradually move toward an extreme state. Extreme principles, constraints, and mutual checks are components of the system from the outset.
+
+All principles operate simultaneously and influence one another rather than being implemented sequentially.
+
+For example:
+
+- Extreme anti-corruption operates simultaneously with extreme restrictions on oversight power.
+- Extreme public mobilization operates simultaneously with extreme restrictions on mobilization authority.
+- Extreme popular decision-making operates simultaneously with extreme protection of minority rights.
+- Extreme institutional correction operates simultaneously with extreme institutional replaceability.
+- Extreme security precautions operate simultaneously with extreme restrictions on the capacity of security institutions to dominate.
+- Extreme demands for stability operate simultaneously with extreme safeguards against the permanent entrenchment of power.
+- Extreme transparency requirements operate simultaneously with extreme protection of personal privacy.
+- Extreme checks and balances operate simultaneously with extreme efforts to preserve effective governance capacity.
+
+These principles must not simply be discarded because they conflict with one another. They must participate jointly in the operation of the system, and their interactions must be incorporated into institutional design.
+
+III. The Core Operating Cycle
+
+1. Joint operation: All extreme principles operate simultaneously.
+2. Mutual constraint: Different principles limit one another’s powers and scopes of application.
+3. Mutual catalysis: One principle may alter how other principles operate, producing new outcomes.
+4. Continuous correction: The system’s overall results are examined rather than evaluating individual institutions in isolation.
+5. Recording experience: Effective mechanisms, errors, failure conditions, and their causal relationships are preserved.
+6. Inheritance and revision: Future generations inherit verified experience and reassess its applicability.
+7. Replacement and evolution: When institutions fail or better alternatives emerge, they may be revised, dismantled, rebuilt, or replaced entirely.
+
+This cycle does not guarantee that all principles can remain in balance forever. It must confront the possibility that extreme principles may reinforce one another, conflict with one another, or even jointly produce systemic failure.
+
+IV. Anti-Corruption and Oversight
+
+No institution should receive permanent immunity merely because its mission is to combat corruption.
+
+Oversight bodies must themselves be subject to oversight. Evidence must be open to challenge, and decisions must retain appropriate channels for review.
+
+The purpose of anti-corruption is to detect, investigate, and correct abuses of power—not to allow scrutiny powers to expand without limit.
+
+The system must address both extremes simultaneously: corruption must not be tolerated, but anti-corruption mechanisms must not become new forces of domination.
+
+V. Popular Decision-Making and Institutional Legitimacy
+
+Major public decisions should have a clear source of authorization and allow people to access information, participate in debate, raise objections, and choose alternatives.
+
+Experts are responsible for explaining facts, evidence, and risks, while the public participates in determining collective goals and the priorities of public values.
+
+Majority decisions must not automatically deprive minorities of their fundamental rights or permanently close off channels for peaceful political alternation.
+
+Procedural legality cannot substitute for examining the actual distribution of power or the public’s genuine capacity to participate.
+
+VI. Constrained Public Mobilization
+
+The system must retain the capacity to rapidly coordinate people, funding, knowledge, and public resources.
+
+However, the capacity to mobilize does not confer a right to rule permanently.
+
+Public mobilization should have clearly defined objectives, lawful authorization, an appropriate scope, review deadlines, accountability records, and mechanisms for terminating the relevant powers.
+
+Once mobilization ends, temporary powers must expire according to established procedures or receive renewed authorization.
+
+The system must be capable of taking action while preventing that capacity for action from becoming permanent, unchallengeable power.
+
+VII. Anti-War Principles and Constraints for Peace
+
+Peaceful resolution of disputes should take priority.
+
+The use of force must be subject to lawful authorization, necessity, proportionality, and applicable international law. Oversight, review, and termination mechanisms must remain in place.
+
+A state of emergency must not automatically become a justification for unlimited war powers or the permanent abolition of public oversight.
+
+Opposition to war does not mean rejecting lawful self-defense. Rather, it seeks to prevent war from becoming an unchallengeable political instrument.
+
+VIII. Extreme Coupling and Systemic Failure
+
+The simultaneous operation of all extremes does not mean that they will necessarily cancel one another out.
+
+They may form complex feedback relationships. For example, anti-corruption efforts may expand scrutiny; scrutiny may increase complexity; greater complexity may increase dependence on specialists; and that dependence may, in turn, generate demands for further oversight. Meanwhile, persistent risks may drive the repeated extension of mobilization and security reviews.
+
+If these mechanisms reinforce one another while correction, exit, checks and balances, and the public’s ability to challenge authority fail to interrupt the feedback loops, the system may undergo institutional distortion.
+
+Principles originally intended to preserve pluralistic coexistence may be reinterpreted as grounds for excluding perceived threats. Procedures originally intended to limit power may, in practice, facilitate its concentration.
+
+Under certain extreme conditions, this failure pathway may lead to a governing structure in which legal forms remain intact while meaningful pluralistic competition has disappeared, potentially progressing toward fascistization.
+
+However, this is a model of systemic failure subject to specific conditions. It is not an established universal law proving that every similar institutional arrangement must inevitably become fascist in every environment.
+
+IX. Failure Memory and Cumulative Correction
+
+When a system fails, merely replacing its leaders or amending individual provisions is insufficient.
+
+As much of the failure record as possible must be preserved, including:
+
+- The conditions that existed before the failure.
+- The earliest warning signs.
+- The interactions among the system’s extreme principles.
+- The complete causal chain of the failure.
+- The checks and corrective mechanisms that failed to function.
+- The harms caused and the parties who bore them.
+- Corrective measures subsequently verified to be effective.
+- Unresolved questions and competing interpretations.
+
+These records should be subject to independent verification, and future generations must be free to reach different conclusions.
+
+Every correction should document its rationale, scope of application, expected effects, and actual outcomes. New failures must also become new sources of historical experience.
+
+The first failure becomes a line of defense against the second. The new experience gained from the second becomes a line of defense against the third.
+
+The goal is not to guarantee that future generations will never make mistakes. It is to make the recurrence of similar errors increasingly difficult once those errors have been adequately identified, documented, and successfully corrected.
+
+X. Transmission Beyond Institutional Collapse
+
+The end of an institution does not mean that all its ideas and experiences must disappear with it.
+
+Future generations may preserve effective principles, failure records, verified corrections, and unresolved questions. They may also abandon the original institution’s name, structure, and mechanisms that are no longer applicable.
+
+Before adopting any inherited mechanism, they must reassess whether the conditions that caused its previous failures still exist.
+
+If the original causes of failure remain unresolved, simply rebuilding the same institutional system may reproduce the failures of the past.
+
+Transmission is not the exact reproduction of an existing system. It is about giving future generations a better starting point.
+
+XI. The Stepping-Stone Principle
+
+Circulism does not require itself to become history’s final answer.
+
+It permits itself to be criticized, revised, surpassed, or even completely forgotten.
+
+Its value lies not only in the results it achieves while its institutions operate, but also in the knowledge it leaves behind after its termination—and whether that knowledge can help future generations avoid repeating historical mistakes.
+
+Future generations may stand on this stepping stone to build better institutions or pursue entirely different intellectual and ideological paths.
+
+XII. Ultimate Objectives
+
+Circulism seeks to address the following problems simultaneously:
+
+- How to limit permanent domination.
+- How to maintain effective governance while extreme principles operate simultaneously.
+- How to prevent anti-corruption, oversight, security, and mobilization mechanisms from becoming new forces of domination.
+- How to identify mutual reinforcement among extreme principles and recognize systemic failure.
+- How to preserve the lessons of failure and turn them into safeguards for future institutions.
+- How to ensure that experience survives the end of an institution and remains available for further study, revision, and adoption.
+- How to allow future generations to surpass Circulism without having to repeat the costs it has already incurred.
+
+Circulism does not measure its success by its permanent survival, nor does it romanticize failure itself.
+
+It seeks to ensure that failure leaves behind verifiable knowledge, that knowledge becomes the capacity to correct errors, and that the experience gained through correction becomes a starting point from which future generations can continue to advance.
+
+Slogan
+
+“All forces operate in parallel, each shaping the others; order remains mutable, and experience endures.”
 围圆会主义（Circulism）
 
 大白话总结：
